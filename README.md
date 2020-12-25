@@ -6,6 +6,7 @@
 * 📝 A teaching assistant in
   * [Fundamentals of Programming DD1331](https://www.kth.se/student/kurser/kurs/DD1331)
   * [Programming Paradigms DD1362](https://www.kth.se/student/kurser/kurs/dd1362)
+* 💼 Working part time as a developer at [Metricio AB](https://www.metricio.se/)
 
 <br />
 
