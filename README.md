@@ -9,4 +9,6 @@
 
 <br />
 
-Don't hesitate to get in touch:  [<img height="22px" src="./logos/linkedin.png" />](linkedin.com/in/emmy-yin-74b909173) !
+_Don't hesitate to get in touch_!
+
+[<img height="22px" src="./logos/linkedin.png" />](https://linkedin.com/in/emmy-yin-74b909173)
